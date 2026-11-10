@@ -1,0 +1,26 @@
+# CARLA-generated datasets and visualizations
+carla_dataset/
+**/images/
+**/labels/
+**/visualized/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.mp4
+*.avi
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local/editor state
+.vscode/
+.idea/
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
